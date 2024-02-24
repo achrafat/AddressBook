@@ -1,0 +1,17 @@
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\bin\Debug\net6.0\AddressBook.INFRASTRUCTURE.deps.json
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\bin\Debug\net6.0\AddressBook.INFRASTRUCTURE.runtimeconfig.json
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\bin\Debug\net6.0\AddressBook.INFRASTRUCTURE.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\bin\Debug\net6.0\AddressBook.INFRASTRUCTURE.pdb
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\bin\Debug\net6.0\AddressBook.DOMAIN.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\bin\Debug\net6.0\AddressBook.DOMAIN.pdb
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.csproj.CopyComplete
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\refint\AddressBook.INFRASTRUCTURE.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.pdb
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\AddressBook.INFRASTRUCTURE.genruntimeconfig.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.INFRASTRUCTURE\obj\Debug\net6.0\ref\AddressBook.INFRASTRUCTURE.dll

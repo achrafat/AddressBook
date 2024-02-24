@@ -1,0 +1,12 @@
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\bin\Debug\net6.0\AddressBook.DOMAIN.deps.json
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\bin\Debug\net6.0\AddressBook.DOMAIN.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\bin\Debug\net6.0\AddressBook.DOMAIN.pdb
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.AssemblyInfo.cs
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\refint\AddressBook.DOMAIN.dll
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\AddressBook.DOMAIN.pdb
+C:\Users\athra\OneDrive\Bureau\AddressBook\AddressBook\AddressBook.DOMAIN\obj\Debug\net6.0\ref\AddressBook.DOMAIN.dll
