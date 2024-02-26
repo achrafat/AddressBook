@@ -47,14 +47,14 @@ namespace AddressBook.Controllers
             }
 
             await _contactService.UpdateContactAsync(contactDTO);
-            return NoContent();
+            return Ok(await _contactService.GetContactsAsync());
         }
 
         [HttpDelete("{contactId}")]
         public async Task<IActionResult> DeleteContact(int contactId)
         {
             await _contactService.DeleteContactAsync(contactId);
-            return NoContent();
+            return Ok(await _contactService.GetContactsAsync());
         }
        
     }

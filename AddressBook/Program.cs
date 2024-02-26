@@ -15,17 +15,39 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IContactService, ContactService>();
 builder.Services.AddScoped<IContactRepository, ContactRepository>();
 
+
+
 var app = builder.Build();
 
+app.UseCors(policy => policy
+    .AllowAnyOrigin()
+    .AllowAnyHeader()
+    .AllowAnyMethod()
+    .WithExposedHeaders("Content-Disposition")); // Include this line if needed.;
+// Map endpoints.
+app.Map("/api", app =>
+{
+    app.UseRouting();
+
+    // Your endpoints and middleware go here...
+
+    app.UseEndpoints(endpoints =>
+    {
+        endpoints.MapControllers();
+    });
+});
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseHttpsRedirection();
+
 
 app.UseAuthorization();
 
 app.MapControllers();
+
 
 app.Run();

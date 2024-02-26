@@ -68,6 +68,7 @@ namespace AddressBook.Services
         {
             return new Contact
             {
+                ContactId= contactDTO.ContactId,
                 Name = contactDTO.Name,
                 Email = contactDTO.Email,
                 Phone = contactDTO.Phone
