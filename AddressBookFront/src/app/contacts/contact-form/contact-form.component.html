@@ -1,0 +1,20 @@
+<form #form="ngForm" (submit)="onSubmit(form)" [class.submitted]="service.formSubmitted" novalidate autocomplete="off">
+    <input type="hidden" name="contactId" [value]="service.formData.contactId">
+    <div class="mb-3">
+      <label>Name</label>
+      <input class="form-control form-control-lg" placeholder="Exp:Achraf Atia" #name="ngModel" name="name"
+        [(ngModel)]="service.formData.name" required>
+        <label>Email</label>
+        <input class="form-control form-control-lg" placeholder="Exp:xxx@gmail.com" #email="ngModel" name="email"
+          [(ngModel)]="service.formData.email" >
+        <label>Phone</label>
+        <input class="form-control form-control-lg" placeholder="Exp:0606060606" #phone="ngModel" name="phone"
+          [(ngModel)]="service.formData.phone" required minlength="10" maxlength="10">
+    </div>
+    <div class="d-grid">
+      <button class="btn btn-lg btn-success" type="submit">
+        Submit
+      </button>
+    </div>
+  
+  </form>
